@@ -14,4 +14,4 @@
 ## Mock-Up
 
 The following image shows the web page's appearance AFTER I completed my editing of both the html and css files:
-![The Horiseon webpage](.\assets\images\horiseon-final-page.png)
+![The Horiseon webpage](./assets/images/horiseon-final-page.png)
